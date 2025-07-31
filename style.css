@@ -17,7 +17,7 @@
   box-sizing: border-box;
 }
 
-.section__container {
+.section__container
   max-width: var(--max-width);
   margin: auto;
   padding: 5rem 1rem;
@@ -233,7 +233,7 @@ nav {
 
 .customisation {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("assets/customisation.jpg");
+    url("assets/office_space.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
